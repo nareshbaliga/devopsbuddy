@@ -1,1 +1,2 @@
 # devopsbuddy
+Startup skeleton
